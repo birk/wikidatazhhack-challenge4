@@ -66,6 +66,6 @@ with open('data.json', 'w') as outfile:
 
 before: [https://bl.ocks.org/mbostock/4063582](https://bl.ocks.org/mbostock/4063582)
 
-after: [https://birk.github.io/wikidatazhhack-challenge4](https://birk.github.io/wikidatazhhack-challenge4)
+after: [https://birk.github.io/wikidatazhhack-challenge4/](https://birk.github.io/wikidatazhhack-challenge4/)
 
 
